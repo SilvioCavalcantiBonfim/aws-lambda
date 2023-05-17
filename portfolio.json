@@ -1,5 +1,5 @@
 {
-    "project": "Asteroids",
-    "frameworks": ["createreactapp"],
-    "description": "Sistema em javascript baseado no jogo asteroids."
+    "project": "AWS Lambda",
+    "frameworks": ["python", "awslambda", "amazons3", "amazonec2"],
+    "description": "Projetos desenvolvidos durante o curso Certificação Amazon AWS Cloud Practitioner Foundational 2023 orientado por Andre Iacono na plataforma udemy."
 }
